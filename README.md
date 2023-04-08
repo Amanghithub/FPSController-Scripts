@@ -7,3 +7,5 @@ then add mouselook in player camera and add player in the script &&
 then add playermovement in player for movement
 
 Thank You!
+
+Subscribe me on youtube.com/@BBLGroup
